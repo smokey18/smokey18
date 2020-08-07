@@ -1,4 +1,5 @@
-### Hello there, I'm Smokey,
+### <b>Hoi, Smokey here!</b>
+### Welcome to my Profile,
 
 ![Smokey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smokey18&show_icons=true&count_private=true&title_color=333&icon_color=333&hide=["issues"])
 
